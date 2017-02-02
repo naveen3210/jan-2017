@@ -1,0 +1,13 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\bin\Debug\WpfExample.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\bin\Debug\WpfExample.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\bin\Debug\WpfExample.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\WpfExample.csprojResolveAssemblyReference.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\MainWindow.g.cs
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\App.g.cs
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\MainWindow.baml
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\WpfExample.g.resources
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.Cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\WpfExample.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\WpfExample\WpfExample\obj\Debug\WpfExample.pdb

@@ -1,0 +1,23 @@
+[API Trapper      (3130: f0c)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+[API Trapper      (295c:31d4)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\updater.exe
+[API Trapper      (1700:1998)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\uninstall\helper.exe
+[API Trapper      (2f08:33c8)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+[Network Analyzer (2f08: 9e4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2f08: 9e4)] Load Network Traffic Analyzers:
+[Network Analyzer (2f08: 9e4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2f08: 9e4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2f08: 9e4)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2f08: 9e4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2f08: 9e4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2f08: 9e4)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2f08: 9e4)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2f08: 9e4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2f08:1b10)] Address lookup for LAPTOP-DD5IR7L1 = 192.168.0.31
+[Network Analyzer (2f08: 9e4)] Establish Listener @ 127.0.0.1:55995
+[Network Analyzer (2f08: 9e4)] Address lookup for LAPTOP-DD5IR7L1 = 192.168.0.31
+[Network Analyzer (2f08: 9e4)] Request Connection: Remote Server @ 127.0.0.1:55995   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2f08: 9e4)] Accept Connection : Service @ 127.0.0.1:55995  ,  Remote Client @ 127.0.0.1:56004
+[Network Analyzer (2f08:1b10)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2f08:1b10)]   (Sid:  3) Server -> Client : 1 bytes 
+[Network Analyzer (2f08:1b10)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2f08:1b10)]   (Sid:  3) Server -> Client : 1 bytes 

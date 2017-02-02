@@ -1,0 +1,6 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\ParameterizedDelegate\ParameterizedDelegate\bin\Debug\ParameterizedDelegate.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\ParameterizedDelegate\ParameterizedDelegate\bin\Debug\ParameterizedDelegate.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\ParameterizedDelegate\ParameterizedDelegate\bin\Debug\ParameterizedDelegate.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\ParameterizedDelegate\ParameterizedDelegate\obj\Debug\ParameterizedDelegate.csprojResolveAssemblyReference.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\ParameterizedDelegate\ParameterizedDelegate\obj\Debug\ParameterizedDelegate.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\ParameterizedDelegate\ParameterizedDelegate\obj\Debug\ParameterizedDelegate.pdb

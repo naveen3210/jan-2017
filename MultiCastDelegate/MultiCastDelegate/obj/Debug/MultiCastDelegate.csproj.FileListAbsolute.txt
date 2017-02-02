@@ -1,0 +1,6 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.csprojResolveAssemblyReference.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.pdb

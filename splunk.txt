@@ -1,0 +1,37 @@
+Splunk:
+useful CLI command:
+$ splunk stop
+$ splunk restart
+$ splunk status
+The Splunk Web interface is at http://localhost:8000
+username: admin
+password: changeme
+
+Splunk is a powerful platform for searching, analyzing, monitoring, visualizing and reporting of your enterprise data. 
+It acquires important machine data and then converts it into powerful operational intelligence by giving real time insight
+to your data using alerts, dashboards and charts etc.Get a clear understanding of Splunk by going through this insightful
+Infographic now.
+working of Splunk:
+	Splunk works into three phases-
+		• In the first phase, it gathers data to solve your query from many sources as required.
+		• Secondly, it converts that data into results that can solve your query.
+		• Third, it displays the information/answers via a chart, report or graph, which is understood by large audiences.
+Splunk has four important components:
+	• Indexer – It indexes the machine data
+	• Forwarder – Refers to Splunk instances that forward data to the remote indexers
+	• Search Head – Provides GUI for searching
+	• Deployment Server –Manages the Splunk components like indexer, forwarder, and search head in computing environment.
+alerts in Splunk:
+	An alert is an action that a saved search triggers on regular intervals set over a time range, based on the results 
+	of the search. When the alerts are triggered, various actions occur consequently.. For instance, sending an email when
+	a search to the predefined list of people is triggered.
+Three types of alerts:
+1. Pre-result alerts: Most commonly used alert type and runs in real-time for an all- time span. These alerts are
+ designed such that whenever a search returns a result, they are triggered.
+2. Scheduled alerts: The second most common- scheduled results are set up to evaluate the results of a historical
+ search result running over a set time range on a regular schedule. You can define a time range, schedule and 
+ the trigger condition to an alert.
+3. Rolling-window alerts: These are the hybrid of pre-result and scheduled alerts. Similar to the former, these 
+are based on real-time search but do not trigger each time the search returns a matching result . 
+It examines all events in real-time mapping within the rolling window and triggers the time that specific 
+condition by that event in the window is met, like the scheduled alert is triggered on a scheduled search.		

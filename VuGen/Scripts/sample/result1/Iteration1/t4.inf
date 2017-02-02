@@ -1,0 +1,34 @@
+[t4]
+RequestBodyFile=t4_RequestBody.txt
+URL10=http://127.0.0.1:1080/WebTours/images/webtours.png
+URL11=http://127.0.0.1:1080/WebTours/images/hp_logo.png
+SaveSnapshotResources=1
+FileName11=t1_0_hp_logo.png
+FileName10=t1_1_webtours.png
+RequestHeaderFile=t4_RequestHeader.txt
+RawStepStartTime=1485393262057
+ContentType=text/html
+RawStepName=login.pl
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1485393264052
+SnapshotXmlFile=snapshot_4.xml
+Total=11
+URL1=http://127.0.0.1:1080/cgi-bin/login.pl?username=&password=&getInfo=true
+URL2=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s81422110662696?AQB=1&ndh=1&pf=1&t=24/0/2017 20:12:7 2 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:Shim:Version:13.0:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL3=http://127.0.0.1:1080/WebTours/images/button_next.gif
+URL4=http://127.0.0.1:1080/WebTours/profileValidate.js
+URL5=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s84544797986900?AQB=1&ndh=1&pf=1&t=24/0/2017 20:12:6 2 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:OS:win:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=unknown&AQE=1
+FileName1=t4.html
+URL6=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s83799913651792?AQB=1&ndh=1&pf=1&t=24/0/2017 20:12:6 2 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:Extension:Startup:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL7=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s86331450472802?AQB=1&ndh=1&pf=1&t=24/0/2017 20:12:6 2 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:Shim:Version:Unknown:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=not_set&s=1536x864&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1
+FileName3=t4_8_button_next.gif
+URL8=https://translate.googleapis.com/translate_a/l?client=chrome&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1
+URL9=http://127.0.0.1:1080/WebTours/images/mer_login.gif
+FileName2=t4_9_adbcreatepdfplugin.gif
+FileName5=t4_6_adbcreatepdfplugin.gif
+FileName4=t4_7_profileValidate.UNK
+FileName7=t3_4_adbcreatepdfplugin.gif
+FileName6=t3_5_adbcreatepdfplugin.gif
+FileName9=t1_2_mer_login.gif
+FileName8=t2_3_l.UNK
+StepName=Url: login.pl

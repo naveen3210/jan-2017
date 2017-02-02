@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+  
+	<meta charset="utf-8" />
+	<script src="angular.min.js"></script>
+    <script src="Script.js"></script>
+</head>
+<body ng-controller ="mycontroller" >
+<div>
+    10 + 20 = {{ 10 + 20}}
+    <br/>
+		
+    {{ ["David", "Charles", "John"][1]}}
+</div>
+
+<div>
+    <input type ="text" ng-model ="message"/>
+    {{message}}
+</div>
+<div>
+    First Name = {{employee.firstName}}
+</div>
+<div>
+    Last Name = {{employee.lastName}}
+</div>
+<div>
+    Gender = {{employee.Gender}}
+</div>
+<div>
+    <!--ng-src attribute-->
+    <img ng-src="{{employee.Flag}}"/>
+</div>
+    
+<table>
+    <thead>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Gender</th>
+        <th>Number</th>
+        <th> Index</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="cust in customer">
+        <td>{{cust.firstName}} </td>
+        <td>{{cust.lastName}}</td>
+        <td>{{cust.Gender}}</td>
+        <td>{{cust.Number}}</td>
+        <td>{{ $index}}</td>
+    </tr>
+    </tbody>
+
+</table>
+
+</body>
+</html>

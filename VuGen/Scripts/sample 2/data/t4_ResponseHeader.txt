@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+X-AspNetMvc-Version: 5.1
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-AspNet-Version: 4.0.30319
+Set-Cookie: __RequestVerificationToken=56qIbRrEUFFq_sVRdGJi_1RVDqM10JCfc5EbmDC0yhe9oOaOPuUUWkKHxt3r9gyIYDqdEO6WISWUt_yQOqtXl8rKMnagkutvcNlTGtndm7Q1; path=/; HttpOnly
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcTmF2ZWVuIFJlZGR5IFZhbmdhbGFcRG9jdW1lbnRzXFZpc3VhbCBTdHVkaW8gMjAxNVxQcm9qZWN0c1xNVkNNdXNpY1N0b3JlXE1WQ011c2ljU3RvcmVcQWNjb3VudFxMb2dpbg==?=
+X-Powered-By: ASP.NET
+Date: Wed, 25 Jan 2017 01:27:29 GMT
+Content-Length: 2279
+

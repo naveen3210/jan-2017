@@ -1,0 +1,13 @@
+[t27]
+FileName1=t27.html
+URL1=https://clients1.google.com/tbproxy/af/query?client=Google%20Chrome
+Total=2
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=t27_RequestBody.txt
+ResponseHeaderFile=t27_ResponseHeader.txt
+ContentType=text/proto
+SnapshotXmlFile=snapshot_27.xml
+FileName2=t27_client_model_v5_ext_variation_0.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcTmF2ZWVuIFJlZGR5IFZhbmdhbGFcRG9jdW1lbnRzXFZpc3VhbCBTdHVkaW8gMjAxNVxQcm9qZWN0c1xEb3QtbmV0LXdvcmtcU2FtcGxlTWFzdGVyUGFnZVxTYW1wbGVNYXN0ZXJQYWdlXEluZGV4LmFzcHg=?=
+X-Powered-By: ASP.NET
+Date: Wed, 25 Jan 2017 01:43:45 GMT
+Content-Length: 6267
+

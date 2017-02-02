@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+    <script src="angular.min.js"></script>
+    <script src="JavaScript.js"></script>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+</head>
+<body ng-app="myMod">
+<div ng-controller="myControl">
+    Rows to display : <input type="number" min ="0", max="5" ng-model="rowLimit"/>
+    <select >
+    <option> Hello </option>
+    <option> World</option>
+        </select>
+    <br/><br/>
+    <table >
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Date of Birth</th>
+            <th>Gender</th>
+            <th>Salary (number filter)</th>
+            <th>Salary (currency filter)</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="employee in employ | limitTo: rowLimit | orderBy : '+Salary'">
+            
+            <!-- filter using binding expression -->
+            <td>{{employee.name | uppercase}}</td>
+            <td>{{employee.dateOfBirth | date: "dd/MM/yyyy"}}</td>
+            <td>{{employee.gender | lowercase}}</td>
+            <td style="text-align: center">{{employee.Salary | number : 2}}</td>
+            <td style="text-align: center">{{employee.Salary | currency : "$" : 1}}</td>
+        </tr>
+        </tbody>
+    </table>
+
+</div>
+
+</body>
+</html>

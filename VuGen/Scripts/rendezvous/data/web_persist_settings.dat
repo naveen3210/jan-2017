@@ -1,0 +1,21 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2017/01/27 01:24:53
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2017/01/27 01:27:56
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2017/01/27 01:30:45
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2017/01/27 01:32:36
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2017/01/27 01:33:56
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2017/01/27 01:36:51
+StartRecordingIsDst_6=0
+StartRecordingGMT_7=2017/01/27 01:43:10
+StartRecordingIsDst_7=0
+[Security]
+UsingPersistForAuthentication=1
+[UserHomePage]
+UserHomePage=http://dell15.msn.com/?pc=DCTE
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36

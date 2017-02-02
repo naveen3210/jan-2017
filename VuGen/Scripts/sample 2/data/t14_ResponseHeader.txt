@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Length: 0
+Server: Microsoft-HTTPAPI/2.0
+Access-Control-Allow-Origin: http://localhost:60680
+Access-Control-Allow-Credentials: true
+X-Content-Type-Options: nosniff
+Date: Wed, 25 Jan 2017 01:44:20 GMT
+

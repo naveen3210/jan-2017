@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Naveen Reddy Vangala\Documents\VuGen\Scripts\sample
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\naveen reddy vangala\documents\vugen\scripts\sample\\logfile.log
+c:\users\naveen reddy vangala\documents\vugen\scripts\sample\\combined_sample.c
+c:\users\naveen reddy vangala\documents\vugen\scripts\sample\\pre_cci.c

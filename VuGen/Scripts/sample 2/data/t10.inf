@@ -1,0 +1,12 @@
+[t10]
+FileName1=t10_seed.html
+URL1=https://clients4.google.com/chrome-variations/seed?osname=win
+Total=4
+ContentType=image/gif
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10___utm.gif
+URL2=https://www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=10&utmn=1980896732&utmhn=cmedhionkhpnakcndndgjdbohmhepckk&utmcs=UTF-8&utmsr=1536x864&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=24.0%20r0&utmhid=1572435900&utmr=-&utmp=%2F_generated_background_page.html&utmht=1485308624764&utmac=UA-55554816-1&utmcc=__utma%3D8709543.1154732258.1467819443.1485271030.1485305421.387%3B%2B__utmz%3D8709543.1467819443.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1154484928&utmredir=1&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~
+FileName3=t10_css.css
+URL3=https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic
+FileName4=t10_jquery.min.html
+URL4=http://localhost:60680/js/jquery.min.js

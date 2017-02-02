@@ -1,0 +1,8 @@
+[hosts]
+127.0.0.1=
+external-rules.foxydeal.com=
+translate.googleapis.com=
+clients4.google.com=
+sstats.adobe.com=
+clients1.google.com=
+ssl.gstatic.com=

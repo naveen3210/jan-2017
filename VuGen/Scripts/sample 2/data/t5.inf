@@ -1,0 +1,10 @@
+[t5]
+FileName1=t5_returnCookies.html
+URL1=http://external-rules.foxydeal.com/inline/returnCookies
+Total=3
+ContentType=image/gif
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5___utm.gif
+URL2=https://www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=8&utmn=451222629&utmhn=cmedhionkhpnakcndndgjdbohmhepckk&utmcs=UTF-8&utmsr=1536x864&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=24.0%20r0&utmhid=315322112&utmr=-&utmp=%2F_generated_background_page.html&utmht=1485307648827&utmac=UA-55554816-1&utmcc=__utma%3D8709543.1154732258.1467819443.1485271030.1485305421.387%3B%2B__utmz%3D8709543.1467819443.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=524629278&utmredir=1&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~
+FileName3=t5_css.css
+URL3=http://fonts.googleapis.com/css?family=Lato:300,400,700

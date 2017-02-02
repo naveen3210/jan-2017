@@ -1,0 +1,10 @@
+HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Server: Microsoft-HTTPAPI/2.0
+Access-Control-Allow-Origin: http://localhost:17188
+Access-Control-Allow-Credentials: true
+X-Content-Type-Options: nosniff
+Connection: Upgrade
+Sec-WebSocket-Accept: MiTKAPrjiyVbzIRAPaaK+TFbpQ4=
+Date: Wed, 25 Jan 2017 01:27:31 GMT
+

@@ -1,0 +1,10 @@
+[t16]
+FileName1=t16_seed.html
+URL1=https://clients4.google.com/chrome-variations/seed?osname=win
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_16.xml
+FileName2=t16_l.html
+URL2=https://translate.googleapis.com/translate_a/l?client=chrome&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1
+FileName3=t16_js.html
+URL3=https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false

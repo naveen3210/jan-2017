@@ -1,0 +1,101 @@
+Load Runner:12.5 ver
+automation tool for performance testing from HP. It is paid version and limted to
+50 user.using c program language.
+
+Components of load runner:
+-virtual user generator(Vugen)
+	> Recording
+	> Actions
+	> Parameterization
+	> Checkpoints
+	> Correlation
+	> Debugging
+- controller
+	> Design Manual Scenario
+	> Goal oriented scenario
+	> Service level agreement
+	> Load generator(Distributed generator)
+	> Resource monitoring
+- analysis
+	> Design different types graph
+	> generate report
+	> Merge graph
+
+Protocols that support load runner:
+. http/html
+. soap
+. TrueClient(mobile)
+
+Download link:http://www8.hp.com/us/en/software-solutions(load runner 12.5 community ed)
+
+HP load runner:
+by default recording is stored in actionand there are three components in action (vuser_init, action , vuser_end)
+Load runner don't record each and every activity, it record only activity that takes b/w client machine and server machine
+creates and manages virtual users.users are independent to one another.
+performance measurements(through put, response time, concurrent vusers)
+works with numerous protocol(better communication b/w client and server)
+Protocol Advisor:
+gives the advice of what type of protocols are used in the application.
+Running script in Loop:
+script in vugen and then execute it in loop multiple times.
+Actions:
+with the help of action we divide our script into multiple sections, group of related steps, quite similar to functions in otherlanguages,
+bring modularity and reusability 
+3 default actions:
+vuser_init: used to initialization, can be executed only once
+action: used to enter recorded script can be executed as many times as we want.
+Vuser_end: used to terminate, execute only once
+Transaction:
+		it is used to find time taken by a step or no. of steps to execute, in LR we used transaction to find out time taken 
+	by server to response a particular request. 
+		we must end every started transaction
+		transaction pts. can be added during or after recording
+		transaction must be start and end in same action, cannot be overlapped in multiple action.
+		lr_start_transaction("hello"); lr_end_transaction("hello", LR_AUTO);
+Rendezvous point:
+		when we want multiple user to run same task simultaneously we go for renezvous pt.
+	in VUgen we can't implement multiple users it can done only in controller. In action we add rendezvous pt. but use in controller.
+
+Controller:
+	used to create and manage scenario. it executes senario and distribute load on diff. machine.
+	we can monitor performance of server while execution of scenario.
+Scenario:
+	sequence of events which emulates actions performed by real users to perform any business process.
+	scenario will include:
+		Vuser scripts that we need to run in scenario
+		load generator machine, machine on which script will execute and apply load on server.
+		no. of Vusers, in form of group.
+2 modes of scenario : virtual user group and other percentage mode
+Loadrunner provides two types of check points
+	a) Image Checkpoints : This checkpoint will verify the presence of an image on a page during run-time
+	b) Text Checkpoint : This checkpoint will verify the presence of a text-string on a page during run-time
+	Both of the above checkpoints can be added in Vugen.
+Correlation:
+	Correlation is used to obtain data which is unique for each run of your test script (ex: session ids). 
+While recording, these dynamic values are hard-coded in your script causing the script to fail during playback. 
+Correlation is a technique where dynamic values are not hard-coded in your script but are extracted at run-time 
+to avoid failure.
+18) What is Manual Correlation?
+Its correlation technique which uses function Web_reg_save_param() to identify dynamic values in your script. 
+It is important that your playback your script to verify that correlation is done successfully.
+
+Relationship between Response Time and Throughput:
+	The Throughput shows the amount of data in bytes that the Vusers received from the server in a second. 
+When It is compared with transaction response time, throughput and response time get decreased.
+	The peak throughput and highest response time would occur approximately at the same time.
+
+vuser_init and vuser_end action contain:
+	Vuser_init action contains procedures to login to a server and Vuser_end section contains log off procedures.
+
+difference between standard log and extended log:
+	The standard log sends a subset of functions and messages to the output log and subset of functions depends
+on the Vuser type.
+	Extended log sends a detailed script execution messages to the output log. It is mainly used during 
+debugging when user needs information about Parameter substitution.
+
+advantages of Load Runner:
+	Reduces human intervention
+	Reduces the requirement of the systems
+	Helps in the better usage of time and money
+	Effective utilization of automation
+	Single point execution

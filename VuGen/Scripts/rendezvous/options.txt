@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Naveen Reddy Vangala\Documents\VuGen\Scripts\rendezvous
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\naveen reddy vangala\documents\vugen\scripts\rendezvous\\logfile.log
+c:\users\naveen reddy vangala\documents\vugen\scripts\rendezvous\\combined_rendezvous.c
+c:\users\naveen reddy vangala\documents\vugen\scripts\rendezvous\\pre_cci.c

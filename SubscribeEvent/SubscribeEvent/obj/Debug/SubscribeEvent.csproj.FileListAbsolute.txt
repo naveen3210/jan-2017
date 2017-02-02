@@ -1,0 +1,6 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\SubscribeEvent\SubscribeEvent\bin\Debug\SubscribeEvent.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\SubscribeEvent\SubscribeEvent\bin\Debug\SubscribeEvent.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\SubscribeEvent\SubscribeEvent\bin\Debug\SubscribeEvent.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\SubscribeEvent\SubscribeEvent\obj\Debug\SubscribeEvent.csprojResolveAssemblyReference.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\SubscribeEvent\SubscribeEvent\obj\Debug\SubscribeEvent.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\SubscribeEvent\SubscribeEvent\obj\Debug\SubscribeEvent.pdb

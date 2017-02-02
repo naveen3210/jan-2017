@@ -1,0 +1,63 @@
+[t2]
+RequestBodyFile=t2_RequestBody.txt
+URL10=http://127.0.0.1:1080/WebTours/images/itinerary.gif
+URL11=http://127.0.0.1:1080/WebTours/images/flights.gif
+URL12=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb
+URL13=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb
+URL14=http://127.0.0.1:1080/WebTours/images/button_next.gif
+URL15=http://127.0.0.1:1080/WebTours/profileValidate.js
+URL16=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s43882352511758?AQB=1&ndh=1&pf=1&t=26/0/2017 19:43:19 4 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:Shim:Version:Unknown:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=not_set&s=1536x864&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1
+URL17=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s43450856171600?AQB=1&ndh=1&pf=1&t=26/0/2017 19:43:19 4 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:Shim:Version:13.0:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL18=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s44313324580913?AQB=1&ndh=1&pf=1&t=26/0/2017 19:43:19 4 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:OS:win:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL19=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s48861635883661?AQB=1&ndh=1&pf=1&t=26/0/2017 19:43:19 4 360&fid=050FD01EA11D12D1-2C5CD877843B8EA7&ce=UTF-8&pageName=DCBrowserExt:Extension:Startup:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.0.4&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL20=http://127.0.0.1:1080/WebTours/images/mer_login.gif
+URL21=https://translate.googleapis.com/translate_a/l?client=chrome&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1
+URL22=http://127.0.0.1:1080/WebTours/images/webtours.png
+SaveSnapshotResources=1
+URL23=http://127.0.0.1:1080/WebTours/images/hp_logo.png
+FileName11=t7_12_flights.gif
+FileName10=t7_13_itinerary.gif
+FileName13=t4_10_client_model_v5_ext_variation_0.UNK
+FileName12=t4_11_client_model_v5_variation_0.UNK
+RequestHeaderFile=t2_RequestHeader.txt
+FileName15=t4_8_profileValidate.UNK
+RawStepStartTime=1485482434452
+FileName14=t4_9_button_next.gif
+FileName17=t3_6_adbcreatepdfplugin.gif
+FileName16=t3_7_adbcreatepdfplugin.gif
+FileName19=t3_4_adbcreatepdfplugin.gif
+FileName18=t3_5_adbcreatepdfplugin.gif
+ContentType=text/html
+RawStepName=index.htm
+FrameIndex2=0.0
+FrameIndex3=0.1
+FrameIndex4=0.1.0
+FrameIndex5=0.1.1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1485482434601
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_2.xml
+Total=23
+URL1=http://127.0.0.1:1080/WebTours/index.htm
+URL2=http://127.0.0.1:1080/WebTours/header.html
+URL3=http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true
+URL4=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+URL5=http://127.0.0.1:1080/WebTours/home.html
+FileName1=t2.html
+URL6=http://127.0.0.1:1080/WebTours/images/in_flights.gif
+URL7=http://127.0.0.1:1080/WebTours/images/home.gif
+FileName3=t2f1.html
+URL8=http://127.0.0.1:1080/WebTours/images/signoff.gif
+URL9=http://127.0.0.1:1080/WebTours/images/in_home.gif
+FileName2=t2f0.html
+FileName5=t2f1f1.html
+FileName4=t2f1f0.html
+FileName7=t8_16_home.gif
+FileName6=t8_17_in_flights.gif
+FileName9=t7_14_in_home.gif
+FileName8=t7_15_signoff.gif
+FileName21=t2_21_l.UNK
+FileName20=t2_20_mer_login.gif
+FileName23=t2_18_hp_logo.png
+FileName22=t2_19_webtours.png
+StepName=Url: index.htm

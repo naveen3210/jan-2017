@@ -1,0 +1,16 @@
+[hosts]
+translate.googleapis.com=
+clients4.google.com=
+ssl.google-analytics.com=
+external-rules.foxydeal.com=
+ssl.gstatic.com=
+sstats.adobe.com=
+localhost=
+www.google-analytics.com=
+fonts.googleapis.com=
+fonts.gstatic.com=
+maps.googleapis.com=
+csi.gstatic.com=
+clients1.google.com=
+maps.gstatic.com=
+127.0.0.1=

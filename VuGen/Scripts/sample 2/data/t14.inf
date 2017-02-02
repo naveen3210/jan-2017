@@ -1,0 +1,11 @@
+[t14]
+FileName1=t14.html
+URL1=http://localhost:9264/981241ba45fd409bb2f04296b511663a/browserLinkSignalR/abort?transport=webSockets&connectionToken=AQAAANCMnd8BFdERjHoAwE%2FCl%2BsBAAAA4RHf8%2FwaWESxTreUEEgEWwAAAAACAAAAAAAQZgAAAAEAACAAAAC30EdkCf1%2FmT7giZea4qSyNNV6J96YC1%2BnxTJ3cTVZyAAAAAAOgAAAAAIAACAAAAB2GqitgHsotTjuVQHOW%2F2fsPIRy5EvgJh3DJdN6DVqHjAAAADgbqwEyB54jMr6o7RB%2BthdRBkkxr076L0%2FhtZ%2FucrJ8GxdTe%2BthpaTr0rsCXS9LAxAAAAANBQQPrFU1iYBKAMMogQuwlnWohz3%2FWcqlE4FYu9UdC4fvilc8uQRhsk2sExZ9uT68MqbEKS8mpAyfmKOSPIOGw%3D%3D&requestUrl=http%3A%2F%2Flocalhost%3A60680%2F&browserName=Chrome&userAgent=Mozilla%2F5.0+(Windows+NT+10.0%3B+WOW64)+AppleWebKit%2F537.36+(KHTML%2C+like+Gecko)+Chrome%2F55.0.2883.87+Safari%2F537.36
+Total=1
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t14_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_14.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

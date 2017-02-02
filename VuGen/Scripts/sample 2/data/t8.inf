@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8.html
+URL1=http://localhost:7416/79a35c47044146e08f2686b4858f378f/browserLinkSignalR/abort?transport=webSockets&connectionToken=AQAAANCMnd8BFdERjHoAwE%2FCl%2BsBAAAA4RHf8%2FwaWESxTreUEEgEWwAAAAACAAAAAAAQZgAAAAEAACAAAACMuIy1QWpkC3R36EXDMA%2BvR1MXrktiq3pMsZuDy9YnYgAAAAAOgAAAAAIAACAAAACZ3igR8yMO2fiLfAdTmY%2F38CY8cDYk7WtA6PJ7PaCNUDAAAABp591IjQhV3uNjL8djbblLb8pcB2RomocYS%2FvadSZC703j7lSNFsT6f%2BIp8pxmN11AAAAAW%2B895RZTjsrQmI9U7chiR1%2FZjiwXVQruNwQe1XGMYEpTRLXwC8YCJVDl3hYqdJKR1ibhD6mP1dAD0OJywTjqCw%3D%3D&requestUrl=http%3A%2F%2Flocalhost%3A17188%2FAccount%2FLogin%3FReturnUrl%3D%252FAlbums%252FCreate&browserName=Chrome&userAgent=Mozilla%2F5.0+(Windows+NT+10.0%3B+WOW64)+AppleWebKit%2F537.36+(KHTML%2C+like+Gecko)+Chrome%2F55.0.2883.87+Safari%2F537.36
+Total=1
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_8.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

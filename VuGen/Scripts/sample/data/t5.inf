@@ -1,0 +1,15 @@
+[t5]
+FileName1=t5.html
+URL1=https://clients1.google.com/tbproxy/af/query?client=Google%20Chrome
+Total=3
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=t5_RequestBody.txt
+ResponseHeaderFile=t5_ResponseHeader.txt
+ContentType=text/proto
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5_client_model_v5_variation_0.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb
+FileName3=t5_client_model_v5_ext_variation_0.html
+URL3=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb
+[ProtocolInfo]
+ProtocolId=QTWeb
